@@ -72,6 +72,7 @@ Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/
 
 ```bash
 conda create -n yolov5 python=3.9
+conda activate yolov5
 pip install -r requirements.txt  # install
 pip install torch==1.12.1+cu116 torchvision==0.13.1+cu116 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu116
 ```
