@@ -1,6 +1,6 @@
 # Link for weights
 
-https://drive.google.com/file/d/1WP0IKSQnsX8NbjGgf_N6VL_7GNt9lTvz/view?usp=sharing
+https://drive.google.com/drive/folders/1HJx_62NV2n0-EcTABtjJWV2W0uU7TGVD?usp=sharing
 
 # Official YOLOv7
 
